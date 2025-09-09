@@ -1,0 +1,89 @@
+{
+  "aries": {
+    "default": "Hoy podrías discutir con alguien cercano. Respira antes de responder: no todo merece tu fuego. ",
+    "frases": [
+      {
+        "texto": "Me gusta el brocoli",
+        "activo": true
+      }
+    ],
+    "imagen": "/data/imagenes/img-1.jpg",
+    "accesoImagen": true
+  },
+  "taurus": {
+    "default": "Un familiar tendrá un mal día. Tu paciencia será clave para que no se derrumbe.",
+    "frases": [
+      {
+        "texto": "Comete una manzana che",
+        "activo": false
+      }
+    ],
+    "imagen": "/data/imagenes/img-3.jpg",
+    "accesoImagen": true
+  },
+  "gemini": {
+    "default": "Recibirás una llamada inesperada que te hará replantear algo importante. No ignores tu intuición.",
+    "frases": [
+      {
+        "texto": "Hoy tendrás un día fenomenal",
+        "activo": true
+      }
+    ],
+    "imagen": "/data/imagenes/img-2.jpg",
+    "accesoImagen": true
+  },
+  "cancer": {
+    "default": "Alguien que te quiere está esperando que lo busques. Hoy es buen día para sanar vínculos.",
+    "frases": [],
+    "imagen": "/data/imagenes/img-4.jpg",
+    "accesoImagen": true
+  },
+  "leo": {
+    "default": "Tu brillo atrae miradas, pero también envidias. Sé humilde y no caigas en provocaciones.",
+    "frases": [],
+    "imagen": "/data/imagenes/img-5.jpg",
+    "accesoImagen": true
+  },
+  "virgo": {
+    "default": "Tu orden mental será puesto a prueba por una noticia confusa. No saques conclusiones apresuradas.",
+    "frases": [],
+    "imagen": "/data/imagenes/img-6.jpg",
+    "accesoImagen": true
+  },
+  "libra": {
+    "default": "Una conversación incómoda puede traer equilibrio. No evites lo que necesita ser dicho.",
+    "frases": [],
+    "imagen": "/data/imagenes/img-7.jpg",
+    "accesoImagen": true
+  },
+  "scorpio": {
+    "default": "Hoy tendrás suerte, pero solo si confías en alguien que normalmente te cuesta abrirte.",
+    "frases": [],
+    "imagen": "/data/imagenes/img-8.jpg",
+    "accesoImagen": true
+  },
+  "sagittarius": {
+    "default": "Un viaje corto o cambio de rutina te dará una pista sobre algo que estabas buscando.",
+    "frases": [],
+    "imagen": "/data/imagenes/img-9.jpg",
+    "accesoImagen": true
+  },
+  "capricorn": {
+    "default": "Tu esfuerzo será reconocido, pero no por quien esperabas. Agradece sin resentimiento.",
+    "frases": [],
+    "imagen": "/data/imagenes/img-10.jpg",
+    "accesoImagen": true
+  },
+  "aquarius": {
+    "default": "Una idea tuya será tomada en serio por alguien influyente. No subestimes tu impacto.",
+    "frases": [],
+    "imagen": "/data/imagenes/img-11.jpg",
+    "accesoImagen": true
+  },
+  "pisces": {
+    "default": "Tu sensibilidad te hará captar algo que otros no ven. Usa eso para ayudar, no para sufrir.",
+    "frases": [],
+    "imagen": "/data/imagenes/img-12.jpg",
+    "accesoImagen": true
+  }
+}
