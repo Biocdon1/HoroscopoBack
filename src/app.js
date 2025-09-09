@@ -7,7 +7,10 @@ const path = require('path');
 const app = express();
 
 const corsOptions = {
-  origin: ['http://localhost:5174', 'http://localhost:5173'], // ✅ array de orígenes permitidos
+  origin: [
+    'https://horoscopo-front-admin.vercel.app',
+    'https://horoscopo-front-amber.vercel.app'
+  ],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
 };
